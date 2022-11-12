@@ -1,0 +1,1 @@
+toy implementation of NeRF in pytorch
